@@ -1,5 +1,5 @@
 
-name: Generate Contribution Snake
+name: Generate Neon Contribution Snake
 
 on:
   schedule:
@@ -15,16 +15,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - name: Generate snake SVG
+      - name: Generate cyan and violet snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=22D3EE&color_dots=%230B1120,%23164E63,%230891B2,%2306B6D4,%23A78BFA
+            dist/github-snake-dark.svg?color_snake=A78BFA&color_dots=%230B1120,%231E1B4B,%234C1D95,%237C3AED,%23C4B5FD
 
-      - name: Publish snake SVG
+      - name: Publish generated SVG files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
