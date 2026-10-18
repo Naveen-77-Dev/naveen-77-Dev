@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/main/assets/banner.svg" alt="Naveen Mangali — AI &amp; Machine Learning" width="100%"/>
+<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/banner.svg" alt="Naveen Mangali — AI &amp; Machine Learning" width="100%"/>
 
 <br/>
 
@@ -252,6 +252,6 @@ Interested in AI/ML, LLM applications, or building something useful together?
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/main/assets/footer.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/footer.svg" alt="" width="100%"/>
 
 </div>
