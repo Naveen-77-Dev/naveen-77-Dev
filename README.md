@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/banner.svg" alt="Naveen Mangali — AI &amp; Machine Learning" width="100%"/>
+<h1 align="center">Naveen Mangali</h1>
+
+<p align="center"><b>AI &amp; Machine Learning &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; LLM Applications</b></p>
+
+<p align="center"><i>Building intelligent software people can use, and turning ideas into working products.</i></p>
+
+<p align="center">💜 &nbsp;✦&nbsp; 🔮 &nbsp;✦&nbsp; 🌸</p>
 
 <br/>
 
@@ -252,6 +258,6 @@ Interested in AI/ML, LLM applications, or building something useful together?
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/footer.svg" alt="" width="100%"/>
+<sub>Thanks for stopping by ✦ Built with curiosity, one project at a time.</sub>
 
 </div>
