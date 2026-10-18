@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=Naveen%20Mangali&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20LLM%20Applications&descSize=17&descAlignY=60&descColor=ffffff" alt="Naveen Mangali" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent+software+people+can+use;B.Tech+CSE+%C2%B7+AI+%26+Machine+Learning;Turning+ideas+into+working+products" alt="Typing animation"/>
+<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/main/assets/banner.svg" alt="Naveen Mangali — AI &amp; Machine Learning" width="100%"/>
 
 <br/>
 
@@ -254,6 +252,6 @@ Interested in AI/ML, LLM applications, or building something useful together?
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:6366f1&height=110&section=footer" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/main/assets/footer.svg" alt="" width="100%"/>
 
 </div>
