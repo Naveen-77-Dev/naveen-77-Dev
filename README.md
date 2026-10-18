@@ -1,134 +1,133 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:111827,100:082F49&height=8" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D16,45:1F2937,75:78350F,100:F59E0B&height=240&section=header&text=NAVEEN%20MANGALI&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=INTELLIGENCE.%20ENGINEERED.&descSize=17&descAlignY=59&descColor=FBBF24" width="100%" alt="Obsidian engineering banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=70&lines=NAVEEN+MANGALI;AI%2FML+%7C+SOFTWARE+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" alt="Naveen animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&height=50&lines=AI%2FML+ENGINEER+IN+THE+MAKING;BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS;FROM+ALGORITHMS+TO+INTELLIGENT+APPLICATIONS" alt="Animated introduction"/>
 
-<p>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=flat-square&labelColor=0B1120" alt="AI ML"/>
-<img src="https://img.shields.io/badge/PYTHON%20DEVELOPER-7C3AED?style=flat-square&labelColor=0B1120" alt="Python developer"/>
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-10B981?style=flat-square&labelColor=0B1120" alt="Always learning"/>
-</p>
+<br/>
 
 <a href="https://www.linkedin.com/in/naveen-mangali-a14684295/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-1F2937?style=for-the-badge&logo=linkedin&logoColor=FBBF24" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/naveen-77-dev?tab=repositories">
-<img src="https://img.shields.io/badge/MY%20PROJECTS-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Projects"/>
+<img src="https://img.shields.io/badge/PROJECTS-1F2937?style=for-the-badge&logo=github&logoColor=FBBF24" alt="Projects"/>
 </a>
 <a href="https://naveen-77-dev.github.io/Rummy-Count-Dashboard-/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-0B1120?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Live demo"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-1F2937?style=for-the-badge&logo=googlechrome&logoColor=FBBF24" alt="Live demo"/>
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:164E63,50:0891B2,100:6D28D9&height=2" width="80%" alt=""/>
 
 </div>
 
-## `01 / ABOUT ME`
+---
 
-Hey, I'm **Naveen Mangali**, a B.Tech student specializing in Computer Science and Engineering — Artificial Intelligence and Machine Learning at **Malla Reddy College of Engineering & Technology**.
+## 01 — THE ENGINEER
 
-I build practical software applications and explore how AI can solve real-world problems, from research-paper analysis to intelligent screening systems.
+I'm **Naveen Mangali**, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at Malla Reddy College of Engineering & Technology.
 
-- 🎓 B.Tech CSE — AI & ML | 2023–2027
-- 📈 CGPA: 9.11/10
-- 🧠 Interests: AI, Machine Learning and Software Engineering
-- 🛠️ Experience: Salesforce development and Infosys Springboard Virtual Internship
-- 🎯 Goal: Build useful, reliable and intelligent software
+My focus is building practical applications that combine software engineering, algorithms, and AI.
 
-## `02 / TECH STACK`
+<table>
+<tr>
+<td width="33%" align="center">
+
+**9.11 / 10**
+
+<sub>CGPA</sub>
+
+</td>
+<td width="33%" align="center">
+
+**2023–2027**
+
+<sub>B.Tech CSE–AIML</sub>
+
+</td>
+<td width="33%" align="center">
+
+**MRCET**
+
+<sub>Hyderabad, India</sub>
+
+</td>
+</tr>
+</table>
+
+> I enjoy taking a problem from an initial idea to a working application—and understanding the engineering behind every step.
+
+## 02 — ENGINEERING TOOLKIT
 
 <div align="center">
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Languages"/>
 
-**FRAMEWORKS & DATABASES**
+**APPLICATION DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flask,mysql,mongodb&theme=dark" alt="Frameworks and databases"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flask&theme=dark" alt="Application frameworks"/>
 
-**TOOLS**
+**DATA & DEVELOPMENT TOOLS**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" alt="Databases and tools"/>
 
 </div>
 
-| Core computer science | AI/ML and other tools |
+| Computer Science | AI / ML & Other Tools |
 |---|---|
 | Data Structures & Algorithms | Machine Learning |
 | Object-Oriented Programming | Predictive Modeling |
 | Database Management Systems | Data Analysis |
-| Operating Systems | Salesforce, Blender, Lua |
+| Operating Systems | Salesforce · Blender · Lua |
 
-## `03 / FEATURED PROJECTS`
+## 03 — SELECTED ENGINEERING WORK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 PaperIQ
+### 01 / PaperIQ
 
-**AI-Powered Research Insight Analyzer**
+**Research Intelligence**
 
-An AI-assisted research-paper analysis project.
+AI-powered research-paper analysis focused on extracting text, identifying keywords, summarizing content, and analyzing methodology.
 
-- Research text extraction
-- Summarization and keyword identification
-- Methodology analysis
-
-`AI` `NLP` `Text Processing`
+`AI` `Text Processing` `Research Analysis`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 SwiftVisa
+### 02 / SwiftVisa
 
-**AI-Enabled Visa Eligibility Screening Agent**
+**Intelligent Screening**
 
-An application designed to assist with visa eligibility screening.
+An AI-enabled visa eligibility screening agent designed to assess requirements, identify missing documents, and produce personalized recommendations.
 
-- Eligibility assessment
-- Missing requirement identification
-- Personalized recommendations
-
-`Python` `Streamlit` `FAISS` `Llama 3.1`
+`Python` `Streamlit` `FAISS` `Groq API`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 Drug Similarity Predictor
+### 03 / Drug Similarity Predictor
 
-**Molecular Similarity Analysis**
+**Molecular Intelligence**
 
-A command-line tool for exploring molecular similarity.
-
-- RDKit molecular fingerprints
-- Tanimoto similarity
-- KNN-based analysis
-- Molecular visualization
+A command-line tool exploring molecular similarity using chemical representations, RDKit fingerprints, Tanimoto similarity, and KNN-based analysis.
 
 `Python` `RDKit` `KNN` `Plotly`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ OS Algorithm Animator
+### 04 / OS Algorithm Animator
 
-**Interactive Operating Systems Visualizer**
+**Systems Visualization**
 
-A web-based learning tool for OS algorithms.
+An interactive web application demonstrating operating-system algorithms through visualizations of CPU scheduling, disk scheduling, and page replacement.
 
-- CPU scheduling
-- Disk scheduling
-- Page replacement
-
-`HTML` `CSS` `JavaScript` `Flask`
+`JavaScript` `HTML` `CSS` `Flask`
 
 </td>
 </tr>
@@ -137,71 +136,54 @@ A web-based learning tool for OS algorithms.
 <div align="center">
 
 <a href="https://github.com/naveen-77-dev?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0B1120?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all projects"/>
-</a>
-
-<a href="https://naveen-77-dev.github.io/Rummy-Count-Dashboard-/">
-<img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-0B1120?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Live application"/>
+<img src="https://img.shields.io/badge/EXPLORE_ENGINEERING_WORK-78350F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore engineering work"/>
 </a>
 
 </div>
 
-## `04 / EXPERIENCE`
+### Additional project
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Rummy Score Tracker** — a browser-based application for tracking game scores.
 
-**Salesforce Developer**
+[Open the live application →](https://naveen-77-dev.github.io/Rummy-Count-Dashboard-/)
 
-*Agentblazer Champion Program*
+## 04 — PROFESSIONAL EXPERIENCE
 
-`May 2025 – July 2025`
+**Salesforce Developer — Agentblazer Champion Program**
 
-- Salesforce application development
-- Apex and Flow automation
-- Lightning Components
-- CRM workflows
+<sub>May 2025 – July 2025</sub>
 
-</td>
-<td width="50%" valign="top">
+- Developed Salesforce applications and CRM workflows.
+- Worked with Apex, Flows, and Lightning Components.
 
-**Application Development Intern**
+**Application Development Intern — Infosys Springboard Virtual Internship 6.0**
 
-*Infosys Springboard Virtual Internship 6.0*
+<sub>February 2026 – April 2026</sub>
 
-`February 2026 – April 2026`
+- Worked on PaperIQ, an AI-powered research analyzer.
+- Explored research text extraction, summarization, keyword identification, and methodology analysis.
 
-- PaperIQ research analyzer
-- Research text processing
-- Summarization and keywords
-- Methodology analysis
-
-</td>
-</tr>
-</table>
-
-## `05 / GITHUB ANALYTICS`
+## 05 — GITHUB ACTIVITY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1&langs_count=6" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&hide_border=true&bg_color=080D16&title_color=F59E0B&icon_color=D6D3D1&text_color=E5E7EB" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&hide_border=true&bg_color=080D16&title_color=F59E0B&text_color=E5E7EB&langs_count=6" alt="Top languages"/>
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=naveen-77-dev&theme=tokyonight&hide_border=true&background=0B1120&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=naveen-77-dev&hide_border=true&background=080D16&ring=F59E0B&fire=FBBF24&currStreakLabel=F59E0B&sideLabels=D6D3D1&dates=9CA3AF" alt="Contribution streak"/>
 
 </div>
 
-## `06 / NEON CONTRIBUTION MATRIX`
+## 06 — CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake.svg" width="100%" alt="Cyan and violet GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake.svg" width="100%" alt="Amber and silver contribution snake"/>
 
 </div>
 
-## `07 / CERTIFICATIONS`
+## 07 — CERTIFICATIONS
 
 - Salesforce Developer — Agentblazer Champion Program
 - Machine Learning with ChatGPT — Coursera
@@ -211,23 +193,23 @@ A web-based learning tool for OS algorithms.
 - Cambridge English Empower C1 — MRCET
 - Learn C and Learn Java — CodeChef
 
-## `08 / LET'S CONNECT`
+## 08 — OPEN CHANNEL
 
 <div align="center">
 
-**Interested in AI, intelligent applications, or building something useful together?**
+**Building something meaningful starts with a good conversation.**
 
 <a href="https://www.linkedin.com/in/naveen-mangali-a14684295/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-78350F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/naveen-77-dev">
-<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+<img src="https://img.shields.io/badge/FOLLOW_MY_WORK-1F2937?style=for-the-badge&logo=github&logoColor=FBBF24" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:164E63,100:6D28D9&height=130&section=footer" width="100%" alt="Futuristic footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:78350F,100:080D16&height=130&section=footer" width="100%" alt="Obsidian footer"/>
 
-<sub>DESIGNED WITH CURIOSITY · BUILT WITH CODE · POWERED BY CONTINUOUS LEARNING</sub>
+<sub>DESIGNED WITH PURPOSE · BUILT THROUGH EXPERIMENTATION · ALWAYS EVOLVING</sub>
 
 </div>
