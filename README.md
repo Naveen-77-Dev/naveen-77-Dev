@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1 align="center">Naveen Mangali</h1>
+<h1 align="center"><b></b>Naveen Mangali</b></h1>
 
 <p align="center"><b>AI &amp; Machine Learning &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; LLM Applications</b></p>
 
