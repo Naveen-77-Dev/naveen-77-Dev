@@ -1,184 +1,207 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00D4FF&height=230&section=header&text=NAVEEN.exe&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=57&descSize=17" width="100%" alt="Naveen's futuristic GitHub banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:111827,100:082F49&height=8" width="100%" alt=""/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=65&lines=Hello%2C+I'm+Naveen+Mangali;B.Tech+CSE+%7C+Artificial+Intelligence+%26+ML;Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+Software+Engineering;Turning+Ideas+Into+Practical+Solutions" alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=70&lines=NAVEEN+MANGALI;AI%2FML+%7C+SOFTWARE+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" alt="Naveen animated introduction"/>
 
-<br/>
+<p>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=flat-square&labelColor=0B1120" alt="AI ML"/>
+<img src="https://img.shields.io/badge/PYTHON%20DEVELOPER-7C3AED?style=flat-square&labelColor=0B1120" alt="Python developer"/>
+<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-10B981?style=flat-square&labelColor=0B1120" alt="Always learning"/>
+</p>
 
 <a href="https://www.linkedin.com/in/naveen-mangali-a14684295/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/naveen-77-dev?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github" alt="GitHub projects"/>
+<img src="https://img.shields.io/badge/MY%20PROJECTS-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Projects"/>
+</a>
+<a href="https://naveen-77-dev.github.io/Rummy-Count-Dashboard-/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-0B1120?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Live demo"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=naveen-77-dev&style=flat-square&color=00D4FF&label=PROFILE+VISITS" alt="Profile visits"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:164E63,50:0891B2,100:6D28D9&height=2" width="80%" alt=""/>
 
 </div>
 
----
+## `01 / ABOUT ME`
 
-## `> whoami`
+Hey, I'm **Naveen Mangali**, a B.Tech student specializing in Computer Science and Engineering — Artificial Intelligence and Machine Learning at **Malla Reddy College of Engineering & Technology**.
 
-I'm **Naveen Mangali**, a B.Tech student specializing in Computer Science and Engineering with Artificial Intelligence and Machine Learning at Malla Reddy College of Engineering & Technology.
+I build practical software applications and explore how AI can solve real-world problems, from research-paper analysis to intelligent screening systems.
 
-I enjoy building practical software applications and exploring how AI can solve real-world problems. My interests span machine learning, intelligent applications, full-stack development, and algorithm visualization.
+- 🎓 B.Tech CSE — AI & ML | 2023–2027
+- 📈 CGPA: 9.11/10
+- 🧠 Interests: AI, Machine Learning and Software Engineering
+- 🛠️ Experience: Salesforce development and Infosys Springboard Virtual Internship
+- 🎯 Goal: Build useful, reliable and intelligent software
 
-```python
-class NaveenMangali:
-    def __init__(self):
-        self.education = "B.Tech CSE - AI & ML"
-        self.college = "MRCET"
-        self.graduation = 2027
-        self.cgpa = "9.11/10"
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Software Development",
-            "Problem Solving"
-        ]
-
-        self.current_focus = [
-            "Building practical AI applications",
-            "Strengthening software engineering skills",
-            "Learning and experimenting with new technologies"
-        ]
-
-    def mission(self):
-        return "Build intelligent technology that solves real problems"
-
-
-me = NaveenMangali()
-print(me.mission())
-```
-
-## `> load_technical_skills()`
+## `02 / TECH STACK`
 
 <div align="center">
 
-### Programming Languages
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Programming languages"/>
 
-### Frameworks and Development
+**FRAMEWORKS & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flask&theme=dark" alt="Frameworks and development"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flask,mysql,mongodb&theme=dark" alt="Frameworks and databases"/>
 
-### Databases and Tools
+**TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" alt="Databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools"/>
 
 </div>
 
-**Core computer science:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems.
+| Core computer science | AI/ML and other tools |
+|---|---|
+| Data Structures & Algorithms | Machine Learning |
+| Object-Oriented Programming | Predictive Modeling |
+| Database Management Systems | Data Analysis |
+| Operating Systems | Salesforce, Blender, Lua |
 
-**AI/ML:** Machine Learning, predictive modeling, data analysis, molecular similarity analysis.
+## `03 / FEATURED PROJECTS`
 
-**Other tools:** Salesforce, Blender, Lua.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## `> professional_experience()`
+### 🧠 PaperIQ
 
-### Infosys Springboard — Virtual Internship 6.0
-*February 2026 – April 2026*
+**AI-Powered Research Insight Analyzer**
 
-**PaperIQ — AI-Powered Research Insight Analyzer**
+An AI-assisted research-paper analysis project.
 
-- Worked on an AI-powered research-paper analyzer.
-- Focused on extracting text from research papers and identifying useful information.
-- Explored automated summarization, keyword identification, and methodology analysis.
+- Research text extraction
+- Summarization and keyword identification
+- Methodology analysis
 
-### Salesforce Developer — Agentblazer Champion Program
-*May 2025 – July 2025*
+`AI` `NLP` `Text Processing`
 
-- Developed Salesforce applications and automated CRM workflows.
-- Worked with Apex, Salesforce Flows, and Lightning Components.
-- Explored business process automation and CRM integrations.
+</td>
+<td width="50%" valign="top">
 
-## `> execute_projects()`
+### 🌐 SwiftVisa
 
-### 01. PaperIQ — AI-Powered Research Insight Analyzer
+**AI-Enabled Visa Eligibility Screening Agent**
 
-An AI-assisted tool designed to make research papers easier to analyze.
+An application designed to assist with visa eligibility screening.
 
-- Extracts and processes research-paper text.
-- Supports research summarization and keyword identification.
-- Focuses on understanding research methodologies.
+- Eligibility assessment
+- Missing requirement identification
+- Personalized recommendations
 
-**Focus:** AI applications, text processing, research automation.
+`Python` `Streamlit` `FAISS` `Llama 3.1`
 
-### 02. SwiftVisa — AI-Enabled Visa Eligibility Screening Agent
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An intelligent screening application designed to assist with visa eligibility checks.
+### 🧬 Drug Similarity Predictor
 
-- Assesses eligibility using supplied information.
-- Helps identify missing documents and requirements.
-- Generates personalized recommendations.
+**Molecular Similarity Analysis**
 
-**Technologies:** Python, Streamlit, FAISS, Groq API, Llama 3.1.
+A command-line tool for exploring molecular similarity.
 
-### 03. AI-Powered Drug Similarity Predictor
+- RDKit molecular fingerprints
+- Tanimoto similarity
+- KNN-based analysis
+- Molecular visualization
 
-A command-line application for comparing molecular representations.
+`Python` `RDKit` `KNN` `Plotly`
 
-- Uses RDKit to process molecular structures.
-- Applies molecular fingerprints and Tanimoto similarity.
-- Explores K-Nearest Neighbors for similarity-based analysis.
-- Supports molecular visualization and alternative-drug exploration.
+</td>
+<td width="50%" valign="top">
 
-**Technologies:** Python, RDKit, KNN, Plotly, Matplotlib.
+### ⚙️ OS Algorithm Animator
 
-### 04. Web-Based OS Algorithm Animator
+**Interactive Operating Systems Visualizer**
 
-An interactive learning tool for operating-system algorithms.
+A web-based learning tool for OS algorithms.
 
-- Visualizes CPU scheduling algorithms.
-- Demonstrates disk scheduling and page replacement.
-- Uses animations to help explain algorithm behavior.
+- CPU scheduling
+- Disk scheduling
+- Page replacement
 
-**Technologies:** HTML, CSS, JavaScript, Python, Flask.
+`HTML` `CSS` `JavaScript` `Flask`
 
-### 05. Rummy Score Tracker
-
-A browser-based application for tracking scores during Rummy games.
-
-<a href="https://naveen-77-dev.github.io/Rummy-Count-Dashboard-/">
-<img src="https://img.shields.io/badge/OPEN_LIVE_PROJECT-00D4FF?style=for-the-badge&logo=githubpages&logoColor=black" alt="Open Rummy Score Tracker"/>
-</a>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/naveen-77-dev?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github" alt="Explore all repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0B1120?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all projects"/>
+</a>
+
+<a href="https://naveen-77-dev.github.io/Rummy-Count-Dashboard-/">
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-0B1120?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Live application"/>
 </a>
 
 </div>
 
-## `> github_analytics()`
+## `04 / EXPERIENCE`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Salesforce Developer**
+
+*Agentblazer Champion Program*
+
+`May 2025 – July 2025`
+
+- Salesforce application development
+- Apex and Flow automation
+- Lightning Components
+- CRM workflows
+
+</td>
+<td width="50%" valign="top">
+
+**Application Development Intern**
+
+*Infosys Springboard Virtual Internship 6.0*
+
+`February 2026 – April 2026`
+
+- PaperIQ research analyzer
+- Research text processing
+- Summarization and keywords
+- Methodology analysis
+
+</td>
+</tr>
+</table>
+
+## `05 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1&langs_count=6" alt="Most used languages"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+<br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=naveen-77-dev&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=naveen-77-dev&theme=tokyonight&hide_border=true&background=0B1120&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
 
 </div>
 
-## `> contribution_animation()`
+## `06 / NEON CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake.svg" width="100%" alt="Cyan and violet GitHub contribution snake"/>
 
 </div>
 
-## `> certifications()`
+## `07 / CERTIFICATIONS`
 
 - Salesforce Developer — Agentblazer Champion Program
 - Machine Learning with ChatGPT — Coursera
@@ -188,24 +211,23 @@ A browser-based application for tracking scores during Rummy games.
 - Cambridge English Empower C1 — MRCET
 - Learn C and Learn Java — CodeChef
 
-## `> let's_connect()`
-
-I'm interested in opportunities to grow as a software developer and AI/ML engineer, collaborate on practical projects, and keep learning new technologies.
+## `08 / LET'S CONNECT`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/naveen-mangali-a14684295/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
+**Interested in AI, intelligent applications, or building something useful together?**
 
+<a href="https://www.linkedin.com/in/naveen-mangali-a14684295/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
 <a href="https://github.com/naveen-77-dev">
-<img src="https://img.shields.io/badge/EXPLORE_GITHUB-181717?style=for-the-badge&logo=github" alt="Explore GitHub"/>
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:102A43,100:050816&height=120&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:164E63,100:6D28D9&height=130&section=footer" width="100%" alt="Futuristic footer"/>
 
-**`SYSTEM STATUS: LEARNING • BUILDING • IMPROVING`**
+<sub>DESIGNED WITH CURIOSITY · BUILT WITH CODE · POWERED BY CONTINUOUS LEARNING</sub>
 
 </div>
