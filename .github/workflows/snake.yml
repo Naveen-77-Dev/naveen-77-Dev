@@ -1,5 +1,5 @@
 
-name: Generate Neon Contribution Snake
+name: Generate Obsidian Contribution Snake
 
 on:
   schedule:
@@ -18,15 +18,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate cyan and violet snake
+      - name: Generate silver and amber snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=22D3EE&color_dots=%230B1120,%23164E63,%230891B2,%2306B6D4,%23A78BFA
-            dist/github-snake-dark.svg?color_snake=A78BFA&color_dots=%230B1120,%231E1B4B,%234C1D95,%237C3AED,%23C4B5FD
+            dist/github-snake.svg?color_snake=F59E0B&color_dots=%23080D16,%23374151,%2378716C,%23B45309,%23FBBF24
+            dist/github-snake-dark.svg?color_snake=D6D3D1&color_dots=%23080D16,%231F2937,%234B5563,%239CA3AF,%23F59E0B
 
-      - name: Publish generated SVG files
+      - name: Publish generated SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
