@@ -6,27 +6,28 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0e7490,100:00e5ff&height=230&section=header&text=NAVEEN%20MANGALI&fontSize=54&fontColor=e0faff&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20ENGINEER%20IN%20TRAINING&descSize=18&descAlignY=60" alt="Naveen Mangali — AI / ML Engineer in Training" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c0a0a,45:b71c1c,100:ffc107&height=230&section=header&text=NAVEEN%20MANGALI&fontSize=54&fontColor=fff3d6&fontAlignY=38&animation=fadeIn&desc=J.A.R.V.I.S.%20PROFILE%20INTERFACE%20%7C%20AI%20%2F%20ML%20ENGINEER%20IN%20TRAINING&descSize=18&descAlignY=60" alt="Naveen Mangali — AI / ML Engineer in Training" width="100%"/>
 
 <a href="https://github.com/naveen-77-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+Initializing+profile+interface...;%3E+Building+intelligent+systems+that+people+can+use;%3E+Machine+Learning+%7C+Generative+AI+%7C+LLM+Apps;%3E+Turning+ideas+into+working+products" alt="Typing animation: building intelligent systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+J.A.R.V.I.S.+online.+Initializing+profile+interface...;%3E+Building+intelligent+systems+that+people+can+use;%3E+Machine+Learning+%7C+Generative+AI+%7C+LLM+Apps;%3E+Turning+ideas+into+working+products" alt="Typing animation: building intelligent systems" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/naveen-mangali-a14684295/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0A0F1F&color=0891B2" alt="LinkedIn"/></a>
-<a href="mailto:mangalinaveen25102004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A0F1F?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0A0F1F&color=0891B2" alt="Email"/></a>
-<a href="https://paperiq77.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-PaperIQ-0A0F1F?style=for-the-badge&logo=streamlit&logoColor=00E5FF&labelColor=0A0F1F&color=0891B2" alt="PaperIQ live demo"/></a>
+<a href="https://www.linkedin.com/in/naveen-mangali-a14684295/"><img src="https://img.shields.io/badge/LinkedIn-Connect-B71C1C?style=for-the-badge&logo=linkedin&logoColor=FFC107&labelColor=0D0D14&color=B71C1C" alt="LinkedIn"/></a>
+<a href="mailto:mangalinaveen25102004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-B71C1C?style=for-the-badge&logo=gmail&logoColor=FFC107&labelColor=0D0D14&color=B71C1C" alt="Email"/></a>
+<a href="https://paperiq77.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-PaperIQ-B71C1C?style=for-the-badge&logo=streamlit&logoColor=FFC107&labelColor=0D0D14&color=B71C1C" alt="PaperIQ live demo"/></a>
 
 </div>
 
 <br/>
 
-## `[ 01 ]` &nbsp;SYSTEM BOOT
+## `[ 01 ]` &nbsp;J.A.R.V.I.S. ONLINE
 
 ```text
-$ ./boot --profile naveen-77-dev
+J.A.R.V.I.S. > Good evening. Profile interface online.
 
+[ OK ] Arc reactor .................. STABLE
 [ OK ] Loading identity .............. Naveen Mangali
 [ OK ] Specialization ................ B.Tech CSE (AI & Machine Learning)
 [ OK ] Institution ................... MRCET
@@ -34,6 +35,7 @@ $ ./boot --profile naveen-77-dev
 [ OK ] Expected graduation ........... 2027
 [ OK ] Location ...................... Andhra Pradesh, India
 [ >> ] Current directive ............. Build. Learn. Ship.
+[ OK ] All systems ................... NOMINAL
 ```
 
 I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning**. I like building practical software, exploring intelligent systems, and turning ideas into working products.
@@ -42,7 +44,7 @@ My interests: **machine learning · generative AI · LLM-powered applications ·
 
 <br/>
 
-## `[ 02 ]` &nbsp;FLAGSHIP DEPLOYMENT
+## `[ 02 ]` &nbsp;FLAGSHIP SUIT // LIVE
 
 <table>
 <tr>
@@ -60,7 +62,7 @@ PaperIQ helps users understand and analyze academic research papers, making rese
 
 `Python` · `Streamlit` · `AI / NLP`
 
-<a href="https://paperiq77.streamlit.app/"><img src="https://img.shields.io/badge/▶_LAUNCH_PAPERIQ-0A0F1F?style=for-the-badge&labelColor=0A0F1F&color=00E5FF" alt="Launch PaperIQ"/></a>
+<a href="https://paperiq77.streamlit.app/"><img src="https://img.shields.io/badge/▶_LAUNCH_PAPERIQ-B71C1C?style=for-the-badge&labelColor=0D0D14&color=B71C1C" alt="Launch PaperIQ"/></a>
 
 </td>
 </tr>
@@ -68,7 +70,7 @@ PaperIQ helps users understand and analyze academic research papers, making rese
 
 <br/>
 
-## `[ 03 ]` &nbsp;PROJECT ARCHIVE
+## `[ 03 ]` &nbsp;PROJECT ARCHIVE // MARK SERIES
 
 ### 🌱 365Rise — Gamified Habit-Building Experience
 > *365 days of rising, one habit at a time.*
@@ -132,75 +134,75 @@ Interactive visualization with a Flask backend and MySQL integration.
 
 <br/>
 
-## `[ 04 ]` &nbsp;CAPABILITY MATRIX
+## `[ 04 ]` &nbsp;ARMORY // CAPABILITY MATRIX
 
 <table>
 <tr>
 <td width="170"><b>💻 Programming</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-0A0F1F?style=flat-square&logo=python&logoColor=00E5FF" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-0A0F1F?style=flat-square&logo=openjdk&logoColor=00E5FF" alt="Java"/>
-<img src="https://img.shields.io/badge/C-0A0F1F?style=flat-square&logo=c&logoColor=00E5FF" alt="C"/>
-<img src="https://img.shields.io/badge/JavaScript-0A0F1F?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Lua-0A0F1F?style=flat-square&logo=lua&logoColor=00E5FF" alt="Lua"/>
-<img src="https://img.shields.io/badge/SQL-0A0F1F?style=flat-square&logo=postgresql&logoColor=00E5FF" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-7A0C0C?style=flat-square&logo=python&logoColor=FFC107" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-7A0C0C?style=flat-square&logo=openjdk&logoColor=FFC107" alt="Java"/>
+<img src="https://img.shields.io/badge/C-7A0C0C?style=flat-square&logo=c&logoColor=FFC107" alt="C"/>
+<img src="https://img.shields.io/badge/JavaScript-7A0C0C?style=flat-square&logo=javascript&logoColor=FFC107" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Lua-7A0C0C?style=flat-square&logo=lua&logoColor=FFC107" alt="Lua"/>
+<img src="https://img.shields.io/badge/SQL-7A0C0C?style=flat-square&logo=postgresql&logoColor=FFC107" alt="SQL"/>
 </td>
 </tr>
 <tr>
 <td><b>🧠 AI / ML</b></td>
 <td>
-<img src="https://img.shields.io/badge/Machine_Learning-0A0F1F?style=flat-square&logoColor=00E5FF" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/KNN-0A0F1F?style=flat-square" alt="KNN"/>
-<img src="https://img.shields.io/badge/Generative_AI-0A0F1F?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLM_Integration-0A0F1F?style=flat-square" alt="LLM Integration"/>
-<img src="https://img.shields.io/badge/RDKit-0A0F1F?style=flat-square" alt="RDKit"/>
+<img src="https://img.shields.io/badge/Machine_Learning-7A0C0C?style=flat-square&logoColor=FFC107" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/KNN-7A0C0C?style=flat-square" alt="KNN"/>
+<img src="https://img.shields.io/badge/Generative_AI-7A0C0C?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM_Integration-7A0C0C?style=flat-square" alt="LLM Integration"/>
+<img src="https://img.shields.io/badge/RDKit-7A0C0C?style=flat-square" alt="RDKit"/>
 </td>
 </tr>
 <tr>
 <td><b>🌐 Web</b></td>
 <td>
-<img src="https://img.shields.io/badge/HTML-0A0F1F?style=flat-square&logo=html5&logoColor=00E5FF" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-0A0F1F?style=flat-square&logo=css3&logoColor=00E5FF" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-0A0F1F?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-0A0F1F?style=flat-square&logo=react&logoColor=00E5FF" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-0A0F1F?style=flat-square&logo=nextdotjs&logoColor=00E5FF" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-0A0F1F?style=flat-square&logo=nodedotjs&logoColor=00E5FF" alt="Node.js"/>
+<img src="https://img.shields.io/badge/HTML-7A0C0C?style=flat-square&logo=html5&logoColor=FFC107" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-7A0C0C?style=flat-square&logo=css3&logoColor=FFC107" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-7A0C0C?style=flat-square&logo=javascript&logoColor=FFC107" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-7A0C0C?style=flat-square&logo=react&logoColor=FFC107" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-7A0C0C?style=flat-square&logo=nextdotjs&logoColor=FFC107" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-7A0C0C?style=flat-square&logo=nodedotjs&logoColor=FFC107" alt="Node.js"/>
 </td>
 </tr>
 <tr>
 <td><b>⚙️ Backend &amp; Data</b></td>
 <td>
-<img src="https://img.shields.io/badge/Flask-0A0F1F?style=flat-square&logo=flask&logoColor=00E5FF" alt="Flask"/>
-<img src="https://img.shields.io/badge/Streamlit-0A0F1F?style=flat-square&logo=streamlit&logoColor=00E5FF" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/MySQL-0A0F1F?style=flat-square&logo=mysql&logoColor=00E5FF" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-0A0F1F?style=flat-square&logo=mongodb&logoColor=00E5FF" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/FAISS-0A0F1F?style=flat-square" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Flask-7A0C0C?style=flat-square&logo=flask&logoColor=FFC107" alt="Flask"/>
+<img src="https://img.shields.io/badge/Streamlit-7A0C0C?style=flat-square&logo=streamlit&logoColor=FFC107" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/MySQL-7A0C0C?style=flat-square&logo=mysql&logoColor=FFC107" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-7A0C0C?style=flat-square&logo=mongodb&logoColor=FFC107" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/FAISS-7A0C0C?style=flat-square" alt="FAISS"/>
 </td>
 </tr>
 <tr>
 <td><b>📊 Visualization</b></td>
 <td>
-<img src="https://img.shields.io/badge/Matplotlib-0A0F1F?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-0A0F1F?style=flat-square&logo=plotly&logoColor=00E5FF" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Matplotlib-7A0C0C?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Plotly-7A0C0C?style=flat-square&logo=plotly&logoColor=FFC107" alt="Plotly"/>
 </td>
 </tr>
 <tr>
 <td><b>🛠️ Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-0A0F1F?style=flat-square&logo=git&logoColor=00E5FF" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-0A0F1F?style=flat-square&logo=github&logoColor=00E5FF" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-0A0F1F?style=flat-square" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Salesforce-0A0F1F?style=flat-square&logo=salesforce&logoColor=00E5FF" alt="Salesforce"/>
-<img src="https://img.shields.io/badge/Blender-0A0F1F?style=flat-square&logo=blender&logoColor=00E5FF" alt="Blender"/>
+<img src="https://img.shields.io/badge/Git-7A0C0C?style=flat-square&logo=git&logoColor=FFC107" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-7A0C0C?style=flat-square&logo=github&logoColor=FFC107" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-7A0C0C?style=flat-square" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Salesforce-7A0C0C?style=flat-square&logo=salesforce&logoColor=FFC107" alt="Salesforce"/>
+<img src="https://img.shields.io/badge/Blender-7A0C0C?style=flat-square&logo=blender&logoColor=FFC107" alt="Blender"/>
 </td>
 </tr>
 <tr>
 <td><b>📚 Core CS</b></td>
 <td>
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-0A0F1F?style=flat-square" alt="Data Structures and Algorithms"/>
-<img src="https://img.shields.io/badge/OOP-0A0F1F?style=flat-square" alt="OOP"/>
-<img src="https://img.shields.io/badge/DBMS-0A0F1F?style=flat-square" alt="DBMS"/>
-<img src="https://img.shields.io/badge/Operating_Systems-0A0F1F?style=flat-square" alt="Operating Systems"/>
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-7A0C0C?style=flat-square" alt="Data Structures and Algorithms"/>
+<img src="https://img.shields.io/badge/OOP-7A0C0C?style=flat-square" alt="OOP"/>
+<img src="https://img.shields.io/badge/DBMS-7A0C0C?style=flat-square" alt="DBMS"/>
+<img src="https://img.shields.io/badge/Operating_Systems-7A0C0C?style=flat-square" alt="Operating Systems"/>
 </td>
 </tr>
 </table>
@@ -230,48 +232,44 @@ Interactive visualization with a Flask backend and MySQL integration.
 
 <br/>
 
-## `[ 07 ]` &nbsp;TELEMETRY
+## `[ 07 ]` &nbsp;HUD TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&hide_border=false&bg_color=0A0F1F&border_color=0E7490&title_color=00E5FF&icon_color=00E5FF&text_color=9FB3C8" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&hide_border=false&bg_color=0A0F1F&border_color=0E7490&title_color=00E5FF&text_color=9FB3C8" alt="Most used languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&hide_border=false&bg_color=0D0D14&border_color=B71C1C&title_color=FFC107&icon_color=00E5FF&text_color=E6E6E6" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&hide_border=false&bg_color=0D0D14&border_color=B71C1C&title_color=FFC107&text_color=E6E6E6" alt="Most used languages" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=naveen-77-dev&background=0A0F1F&border=0E7490&ring=00E5FF&fire=00E5FF&currStreakNum=E0FAFF&sideNums=E0FAFF&currStreakLabel=00E5FF&sideLabels=9FB3C8&dates=9FB3C8" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=naveen-77-dev&background=0D0D14&border=B71C1C&ring=FFC107&fire=D32F2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC107&sideLabels=E6E6E6&dates=E6E6E6" alt="GitHub streak" />
 
 </div>
 
 <br/>
 
-## `[ 08 ]` &nbsp;CONTRIBUTION SNAKE
+## `[ 08 ]` &nbsp;ARC REACTOR // CONTRIBUTION FLOW
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake.svg" />
-</picture>
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake.svg" width="100%" />
 
 </div>
 
 <br/>
 
-## `[ 09 ]` &nbsp;OPEN CHANNEL
+## `[ 09 ]` &nbsp;SECURE CHANNEL
 
 <div align="center">
 
 **Interested in AI/ML, LLM apps, or building something useful together?**
 
-<a href="mailto:mangalinaveen25102004@gmail.com"><img src="https://img.shields.io/badge/mangalinaveen25102004@gmail.com-0A0F1F?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0A0F1F&color=0891B2" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/naveen-mangali-a14684295/"><img src="https://img.shields.io/badge/naveen--mangali-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0A0F1F&color=0891B2" alt="LinkedIn"/></a>
+<a href="mailto:mangalinaveen25102004@gmail.com"><img src="https://img.shields.io/badge/mangalinaveen25102004@gmail.com-B71C1C?style=for-the-badge&logo=gmail&logoColor=FFC107&labelColor=0D0D14&color=B71C1C" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/naveen-mangali-a14684295/"><img src="https://img.shields.io/badge/naveen--mangali-B71C1C?style=for-the-badge&logo=linkedin&logoColor=FFC107&labelColor=0D0D14&color=B71C1C" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=0891B2&center=true&vCenter=true&width=520&lines=Every+project+starts+as+a+question.;365+days+of+rising%2C+one+habit+at+a+time." alt="Closing line" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=FFC107&center=true&vCenter=true&width=520&lines=Every+project+starts+as+a+question.;365+days+of+rising%2C+one+habit+at+a+time." alt="Closing line" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0e7490,100:020617&height=110&section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc107,55:b71c1c,100:2a0505&height=110&section=footer" alt="" width="100%"/>
 
 </div>
