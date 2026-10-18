@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Turning+ideas+into+working+products;Exploring+Machine+Learning+%26+Generative+AI;Engineering+experiences+that+matter" alt="Typing introduction" />
 
-<br/>
+<br/><br/>
 
 <a href="https://paperiq77.streamlit.app/">
   <img src="https://img.shields.io/badge/LAUNCH-PaperIQ_AI-F59E0B?style=for-the-badge&logo=streamlit&logoColor=080D16" alt="Launch PaperIQ AI" />
@@ -28,24 +28,25 @@
 ## `01 / ABOUT ME`
 
 ```text
-Name       : Naveen Mangali
-Education  : B.Tech — CSE (Artificial Intelligence & Machine Learning)
-Institution: Malla Reddy College of Engineering & Technology
-Graduation : 2027
-CGPA       : 9.11 / 10
-Location   : Andhra Pradesh, India
-Focus      : AI/ML • Generative AI • Software Development
+NAME        : Naveen Mangali
+EDUCATION   : B.Tech — CSE (Artificial Intelligence & Machine Learning)
+INSTITUTION : Malla Reddy College of Engineering & Technology
+GRADUATION  : 2027
+CGPA        : 9.11 / 10
+LOCATION    : Andhra Pradesh, India
+FOCUS       : AI/ML • Generative AI • Software Development
 ```
 
-I'm a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning, interested in building practical software that solves real problems.
+I'm a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning, passionate about turning ideas into practical software solutions.
 
-I enjoy taking ideas from concept to implementation—from AI-powered research tools and intelligent screening systems to algorithm visualizations and gamified productivity applications.
+I enjoy building projects that combine intelligent systems, useful functionality, and thoughtful user experiences—from AI-powered research tools to gamified productivity applications.
 
 **Currently focused on:**
-- Developing practical AI/ML applications.
-- Exploring Generative AI, LLMs and intelligent agents.
+
+- Building practical AI/ML applications.
+- Exploring Generative AI, LLMs, and intelligent agents.
 - Strengthening software engineering and problem-solving skills.
-- Building projects that combine useful functionality with thoughtful user experiences.
+- Creating projects that solve real-world problems.
 
 ---
 
@@ -53,21 +54,24 @@ I enjoy taking ideas from concept to implementation—from AI-powered research t
 
 <div align="center">
 
-### LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,java,c,js,lua&theme=dark" />
+**PROGRAMMING LANGUAGES**
 
-### WEB DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,lua&theme=dark" alt="Programming languages" />
 
-### DATABASES & TOOLS
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,blender&theme=dark" />
+**WEB DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs&theme=dark" alt="Web development technologies" />
+
+**DATABASES & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,blender&theme=dark" alt="Databases and developer tools" />
 
 </div>
 
-| Domain | Technologies |
+| Category | Technologies |
 |---|---|
 | Programming | Python, Java, C, JavaScript, Lua, SQL |
-| AI / ML | Machine Learning, KNN, RDKit, Generative AI, LLM integration |
+| AI / ML | Machine Learning, KNN, Generative AI, LLM integration, RDKit |
 | Web Development | HTML, CSS, JavaScript, React, Next.js, Node.js |
 | Backend & Data | Flask, Streamlit, MySQL, MongoDB, FAISS |
 | Visualization | Matplotlib, Plotly |
@@ -78,97 +82,128 @@ I enjoy taking ideas from concept to implementation—from AI-powered research t
 
 ## `03 / FEATURED PROJECTS`
 
-### ◈ 01 — PaperIQ AI
+### ◈ 01 — PaperIQ
+
 **AI-Powered Research Insight Analyzer**
 
+<div align="center">
+
 <a href="https://paperiq77.streamlit.app/">
-  <img src="https://img.shields.io/badge/OPEN_LIVE_APP-F59E0B?style=for-the-badge&logo=streamlit&logoColor=080D16" alt="Open PaperIQ" />
+  <img src="https://img.shields.io/badge/▶_OPEN_LIVE_APPLICATION-F59E0B?style=for-the-badge&logo=streamlit&logoColor=080D16" alt="Open PaperIQ live application" />
 </a>
 
-An AI-powered research companion designed to make academic papers easier to understand and analyze. PaperIQ helps users extract meaningful insights from research documents instead of spending hours manually searching through them.
+</div>
 
-**Key capabilities**
+PaperIQ is an AI-powered research companion designed to make academic papers easier to understand and analyze. Instead of manually searching through lengthy research documents, users can extract important information and explore key insights more efficiently.
+
+**Key Features**
+
 - Upload and extract text from research papers.
 - Generate concise summaries of academic content.
 - Identify important keywords and research concepts.
 - Analyze research methodology and paper structure.
-- Make research exploration more efficient.
+- Simplify the process of exploring academic literature.
 
 **Technologies:** Python · Streamlit · AI/NLP
+
+**Live Demo:** https://paperiq77.streamlit.app/
 
 ---
 
 ### ◈ 02 — 365Rise
+
 **A Gamified Habit-Building Experience**
 
-> *365 days of rising, one habit at a time.* 🌱
+<div align="center">
+
+<img src="https://img.shields.io/badge/CORE_IDEA-MAKE_PROGRESS_VISIBLE-F59E0B?style=for-the-badge" alt="Make progress visible" />
+
+</div>
+
+*365 days of rising, one habit at a time. 🌱*
 
 I've been thinking about why most habit trackers don't work.
 
-We don't always forget our goals—we stop feeling connected to them. Ticking a checkbox and closing an app doesn't necessarily create momentum, reward, or a reason to return tomorrow. When a streak breaks, progress can feel invisible.
+We don't always forget our goals. Sometimes, we simply stop feeling connected to them. You tick a box, close the app, and nothing changes. There's no momentum, no meaningful reward, and sometimes no reason to return tomorrow. A streak breaks, and progress starts to feel invisible.
 
-**365Rise is built around one central idea: make progress visible.**
+That's the problem 365Rise aims to solve.
 
-Instead of being another to-do list, 365Rise turns consistency into a rewarding journey. Every completed habit earns XP and helps users level up. Streaks make daily commitment visible, while completing all daily habits earns coins that can be redeemed for perks.
+**The idea behind 365Rise is simple: make progress visible and consistency rewarding.**
 
-**Planned experience**
-- **XP & Levels:** Earn experience points for completing habits and watch your level grow.
-- **Streak Tracking:** See consecutive days of consistency build over time.
-- **Daily Rewards:** Earn coins by completing all your habits for the day.
-- **Reward Shop:** Redeem coins for perks such as XP boosts, streak shields and new themes.
-- **Mini-Games:** Add variety and fun to the daily routine.
-- **Progress Calendar:** See your journey and how far you've come.
-- **Habit Consistency:** Make daily actions feel like meaningful progress toward long-term goals.
+Every completed habit earns XP and moves users toward the next level. Streaks grow day by day, showing the value of consistent effort. Complete all daily habits to earn coins that can be spent on in-app perks.
 
-**The core idea:** People are more likely to keep going when they can see themselves improving. 365Rise aims to turn small daily actions into visible progress—not just for a week, but across an entire year.
+**Planned Features**
 
-**Project focus:** Gamification · Habit Tracking · User Engagement · Progress Visualization
+- **XP & Leveling System:** Earn experience points by completing habits and level up over time.
+- **Streak Tracking:** Build visible streaks that encourage consistent daily action.
+- **Daily Coin Rewards:** Earn coins after completing all habits for the day.
+- **Reward Shop:** Redeem coins for XP boosts, streak shields, and new themes.
+- **Mini-Games:** Add variety and fun so the daily routine doesn't feel repetitive.
+- **Progress Calendar:** Visualize completed habits and see how far you've come.
+- **Habit Progress Tracking:** Turn small actions into measurable long-term progress.
+- **Personalization:** Use unlockable themes to make the experience feel personal.
 
-*Concept and feature vision; implementation details and technology stack can be updated as development progresses.*
+**The Problem:** Traditional habit trackers can record actions without making progress feel rewarding.
+
+**The Approach:** Combine habit tracking with gamification, visible progress, streaks, and rewards to encourage users to keep showing up.
+
+**The Vision:** 365Rise is not meant to be another to-do list. It's designed to help people feel that their daily actions are adding up to something meaningful—not just for a week, but for an entire year.
+
+**Project Focus:** Gamification · Habit Tracking · User Engagement · Progress Visualization
+
+*Project concept and intended features. The implementation and technology stack will be updated as development progresses.*
 
 ---
 
 ### ◈ 03 — SwiftVisa
+
 **AI Visa Eligibility Screening Agent**
 
-An AI-assisted application concept designed to help users assess visa eligibility through an interactive workflow and relevant information retrieval.
+SwiftVisa explores how AI can support an interactive visa eligibility screening experience and help users navigate relevant information.
 
-**Key capabilities**
-- Interactive visa eligibility screening.
-- Retrieval-assisted responses using a vector index.
-- LLM-powered guidance through a Streamlit interface.
+**Key Features**
+
+- Interactive eligibility screening workflow.
+- Retrieval-assisted information using a vector index.
+- LLM-powered responses through a Streamlit interface.
 
 **Technologies:** Python · Streamlit · FAISS · Groq API · Llama 3.1
 
 ---
 
 ### ◈ 04 — AI-Powered Drug Similarity Predictor
+
 **Molecular Similarity Analysis**
 
-A Python-based project exploring chemical similarity between drug molecules using molecular representations and similarity scoring.
+A Python-based project exploring molecular similarity through chemical representations, molecular fingerprints, and computational similarity scoring.
 
-**Key capabilities**
-- Accept molecular SMILES strings or chemical formulas, depending on supported input.
-- Generate molecular fingerprints with RDKit.
-- Compare molecular structures using Tanimoto similarity.
-- Explore KNN-based prediction and similarity visualization.
+**Key Features**
+
+- Process molecular SMILES strings or supported chemical formula inputs.
+- Generate molecular fingerprints using RDKit.
+- Compare structures using Tanimoto similarity.
+- Explore KNN-based prediction.
+- Visualize similarity results using plotting libraries.
 
 **Technologies:** Python · RDKit · KNN · Matplotlib · Plotly
 
-*Similarity scores are computational comparisons, not medical advice or proof that drugs are interchangeable.*
+*Computational similarity does not establish clinical equivalence or indicate that medications can be substituted.*
 
 ---
 
 ### ◈ 05 — OS Algorithm Animator
-**CPU Scheduling, Disk Scheduling & Page Replacement**
 
-A web application that visualizes core operating-system algorithms through interactive animations, helping students understand how different algorithms process tasks and manage resources.
+**CPU Scheduling · Disk Scheduling · Page Replacement**
 
-**Key capabilities**
-- CPU scheduling: FCFS, SJF, Round Robin and Priority Scheduling.
-- Disk scheduling: SSTF, SCAN, LOOK and C-SCAN.
-- Page replacement: FIFO and LRU.
-- Web interface with Flask backend and MySQL integration.
+A web application designed to make operating-system algorithms easier to understand through interactive visualizations and animations.
+
+**Key Features**
+
+- CPU Scheduling: FCFS, SJF, Round Robin, Priority Scheduling.
+- Disk Scheduling: SSTF, SCAN, LOOK, C-SCAN.
+- Page Replacement: FIFO, LRU.
+- Web-based interface for algorithm visualization.
+- Flask backend and MySQL integration.
 - AI chatbot integration explored as part of the project.
 
 **Technologies:** HTML · CSS · JavaScript · Python · Flask · MySQL
@@ -178,16 +213,20 @@ A web application that visualizes core operating-system algorithms through inter
 ## `04 / EXPERIENCE`
 
 ### Salesforce Developer — Agentblazer Champion Program
+
 **May 2025 – July 2025**
 
-- Developed Salesforce platform skills and explored developer-focused workflows.
-- Practiced applying platform concepts through guided learning and practical activities.
+- Developed Salesforce platform knowledge through structured learning.
+- Explored developer workflows and platform capabilities.
+- Practiced applying technical concepts through guided activities.
 
 ### Infosys Springboard Virtual Internship 6.0
+
 **February 2026 – April 2026**
 
-- Worked on **PaperIQ**, an AI-powered research insight analyzer.
+- Worked on PaperIQ, an AI-powered research insight analyzer.
 - Explored document processing and AI-assisted research workflows.
+- Applied programming skills to a practical project.
 
 ---
 
@@ -209,7 +248,7 @@ A web application that visualizes core operating-system algorithms through inter
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&hide_border=true&bg_color=080D16&title_color=F59E0B&icon_color=D6D3D1&text_color=E5E7EB&ring_color=F59E0B" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&hide_border=true&bg_color=080D16&title_color=F59E0B&text_color=E5E7EB" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&hide_border=true&bg_color=080D16&title_color=F59E0B&text_color=E5E7EB" alt="Most used programming languages" />
 
 <br/><br/>
 
@@ -229,27 +268,29 @@ A web application that visualizes core operating-system algorithms through inter
 
 ---
 
-## `08 / LET'S CONNECT`
+## `08 / CONNECT`
 
 <div align="center">
 
-I'm always interested in learning, collaborating and building useful technology.
+I'm always interested in learning, collaborating, and building useful technology.
 
 <a href="https://www.linkedin.com/in/naveen-mangali-a14684295/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=080D16" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-F59E0B?style=for-the-badge&logo=linkedin&logoColor=080D16" alt="Connect on LinkedIn" />
 </a>
+
 <a href="mailto:mangalinaveen25102004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D6D3D1?style=for-the-badge&logo=gmail&logoColor=080D16" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-D6D3D1?style=for-the-badge&logo=gmail&logoColor=080D16" alt="Send an email" />
 </a>
+
 <a href="https://paperiq77.streamlit.app/">
-  <img src="https://img.shields.io/badge/PaperIQ-Try_the_App-F3F4F6?style=for-the-badge&logo=streamlit&logoColor=080D16" alt="PaperIQ live application" />
+  <img src="https://img.shields.io/badge/PAPERIQ-TRY_THE_LIVE_APP-F3F4F6?style=for-the-badge&logo=streamlit&logoColor=080D16" alt="Try PaperIQ" />
 </a>
 
 <br/><br/>
 
 **BUILD WITH PURPOSE. LEARN WITHOUT LIMITS. RISE EVERY DAY.**
 
-<sub>Designed in OBSIDIAN // ENGINEER · Silver × Amber</sub>
+<sub>OBSIDIAN // ENGINEER — Silver × Amber</sub>
 
 </div>
 ```
