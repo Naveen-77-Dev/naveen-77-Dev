@@ -1,215 +1,255 @@
-
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D16,45:1F2937,75:78350F,100:F59E0B&height=240&section=header&text=NAVEEN%20MANGALI&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=INTELLIGENCE.%20ENGINEERED.&descSize=17&descAlignY=59&descColor=FBBF24" width="100%" alt="Obsidian engineering banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080D16,45:1F2937,100:78350F&text=NAVEEN%20MANGALI&fontColor=F3F4F6&fontSize=48&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&height=50&lines=AI%2FML+ENGINEER+IN+THE+MAKING;BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS;FROM+ALGORITHMS+TO+INTELLIGENT+APPLICATIONS" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Turning+ideas+into+working+products;Exploring+Machine+Learning+%26+Generative+AI;Engineering+experiences+that+matter" alt="Typing introduction" />
 
 <br/>
 
+<a href="https://paperiq77.streamlit.app/">
+  <img src="https://img.shields.io/badge/LAUNCH-PaperIQ_AI-F59E0B?style=for-the-badge&logo=streamlit&logoColor=080D16" alt="Launch PaperIQ AI" />
+</a>
 <a href="https://www.linkedin.com/in/naveen-mangali-a14684295/">
-<img src="https://img.shields.io/badge/LINKEDIN-1F2937?style=for-the-badge&logo=linkedin&logoColor=FBBF24" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/CONNECT-LinkedIn-D6D3D1?style=for-the-badge&logo=linkedin&logoColor=080D16" alt="LinkedIn" />
 </a>
-<a href="https://github.com/naveen-77-dev?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-1F2937?style=for-the-badge&logo=github&logoColor=FBBF24" alt="Projects"/>
+<a href="mailto:mangalinaveen25102004@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-EMAIL-F3F4F6?style=for-the-badge&logo=gmail&logoColor=080D16" alt="Email" />
 </a>
-<a href="https://naveen-77-dev.github.io/Rummy-Count-Dashboard-/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-1F2937?style=for-the-badge&logo=googlechrome&logoColor=FBBF24" alt="Live demo"/>
-</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=naveen-77-dev&style=flat-square&color=F59E0B&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 01 — THE ENGINEER
+## `01 / ABOUT ME`
 
-I'm **Naveen Mangali**, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at Malla Reddy College of Engineering & Technology.
+```text
+Name       : Naveen Mangali
+Education  : B.Tech — CSE (Artificial Intelligence & Machine Learning)
+Institution: Malla Reddy College of Engineering & Technology
+Graduation : 2027
+CGPA       : 9.11 / 10
+Location   : Andhra Pradesh, India
+Focus      : AI/ML • Generative AI • Software Development
+```
 
-My focus is building practical applications that combine software engineering, algorithms, and AI.
+I'm a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning, interested in building practical software that solves real problems.
 
-<table>
-<tr>
-<td width="33%" align="center">
+I enjoy taking ideas from concept to implementation—from AI-powered research tools and intelligent screening systems to algorithm visualizations and gamified productivity applications.
 
-**9.11 / 10**
+**Currently focused on:**
+- Developing practical AI/ML applications.
+- Exploring Generative AI, LLMs and intelligent agents.
+- Strengthening software engineering and problem-solving skills.
+- Building projects that combine useful functionality with thoughtful user experiences.
 
-<sub>CGPA</sub>
+---
 
-</td>
-<td width="33%" align="center">
-
-**2023–2027**
-
-<sub>B.Tech CSE–AIML</sub>
-
-</td>
-<td width="33%" align="center">
-
-**MRCET**
-
-<sub>Hyderabad, India</sub>
-
-</td>
-</tr>
-</table>
-
-> I enjoy taking a problem from an initial idea to a working application—and understanding the engineering behind every step.
-
-## 02 — ENGINEERING TOOLKIT
+## `02 / TECHNICAL ARSENAL`
 
 <div align="center">
 
-**LANGUAGES**
+### LANGUAGES
+<img src="https://skillicons.dev/icons?i=python,java,c,js,lua&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Languages"/>
+### WEB DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs&theme=dark" />
 
-**APPLICATION DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flask&theme=dark" alt="Application frameworks"/>
-
-**DATA & DEVELOPMENT TOOLS**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" alt="Databases and tools"/>
+### DATABASES & TOOLS
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,blender&theme=dark" />
 
 </div>
 
-| Computer Science | AI / ML & Other Tools |
+| Domain | Technologies |
 |---|---|
-| Data Structures & Algorithms | Machine Learning |
-| Object-Oriented Programming | Predictive Modeling |
-| Database Management Systems | Data Analysis |
-| Operating Systems | Salesforce · Blender · Lua |
+| Programming | Python, Java, C, JavaScript, Lua, SQL |
+| AI / ML | Machine Learning, KNN, RDKit, Generative AI, LLM integration |
+| Web Development | HTML, CSS, JavaScript, React, Next.js, Node.js |
+| Backend & Data | Flask, Streamlit, MySQL, MongoDB, FAISS |
+| Visualization | Matplotlib, Plotly |
+| Tools & Platforms | Git, GitHub, VS Code, Salesforce |
+| Core Concepts | Data Structures & Algorithms, OOP, DBMS, Operating Systems |
 
-## 03 — SELECTED ENGINEERING WORK
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## `03 / FEATURED PROJECTS`
 
-### 01 / PaperIQ
+### ◈ 01 — PaperIQ AI
+**AI-Powered Research Insight Analyzer**
 
-**Research Intelligence**
-
-AI-powered research-paper analysis focused on extracting text, identifying keywords, summarizing content, and analyzing methodology.
-
-`AI` `Text Processing` `Research Analysis`
-
-</td>
-<td width="50%" valign="top">
-
-### 02 / SwiftVisa
-
-**Intelligent Screening**
-
-An AI-enabled visa eligibility screening agent designed to assess requirements, identify missing documents, and produce personalized recommendations.
-
-`Python` `Streamlit` `FAISS` `Groq API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 / Drug Similarity Predictor
-
-**Molecular Intelligence**
-
-A command-line tool exploring molecular similarity using chemical representations, RDKit fingerprints, Tanimoto similarity, and KNN-based analysis.
-
-`Python` `RDKit` `KNN` `Plotly`
-
-</td>
-<td width="50%" valign="top">
-
-### 04 / OS Algorithm Animator
-
-**Systems Visualization**
-
-An interactive web application demonstrating operating-system algorithms through visualizations of CPU scheduling, disk scheduling, and page replacement.
-
-`JavaScript` `HTML` `CSS` `Flask`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/naveen-77-dev?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ENGINEERING_WORK-78350F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore engineering work"/>
+<a href="https://paperiq77.streamlit.app/">
+  <img src="https://img.shields.io/badge/OPEN_LIVE_APP-F59E0B?style=for-the-badge&logo=streamlit&logoColor=080D16" alt="Open PaperIQ" />
 </a>
 
-</div>
+An AI-powered research companion designed to make academic papers easier to understand and analyze. PaperIQ helps users extract meaningful insights from research documents instead of spending hours manually searching through them.
 
-### Additional project
+**Key capabilities**
+- Upload and extract text from research papers.
+- Generate concise summaries of academic content.
+- Identify important keywords and research concepts.
+- Analyze research methodology and paper structure.
+- Make research exploration more efficient.
 
-**Rummy Score Tracker** — a browser-based application for tracking game scores.
+**Technologies:** Python · Streamlit · AI/NLP
 
-[Open the live application →](https://naveen-77-dev.github.io/Rummy-Count-Dashboard-/)
+---
 
-## 04 — PROFESSIONAL EXPERIENCE
+### ◈ 02 — 365Rise
+**A Gamified Habit-Building Experience**
 
-**Salesforce Developer — Agentblazer Champion Program**
+> *365 days of rising, one habit at a time.* 🌱
 
-<sub>May 2025 – July 2025</sub>
+I've been thinking about why most habit trackers don't work.
 
-- Developed Salesforce applications and CRM workflows.
-- Worked with Apex, Flows, and Lightning Components.
+We don't always forget our goals—we stop feeling connected to them. Ticking a checkbox and closing an app doesn't necessarily create momentum, reward, or a reason to return tomorrow. When a streak breaks, progress can feel invisible.
 
-**Application Development Intern — Infosys Springboard Virtual Internship 6.0**
+**365Rise is built around one central idea: make progress visible.**
 
-<sub>February 2026 – April 2026</sub>
+Instead of being another to-do list, 365Rise turns consistency into a rewarding journey. Every completed habit earns XP and helps users level up. Streaks make daily commitment visible, while completing all daily habits earns coins that can be redeemed for perks.
 
-- Worked on PaperIQ, an AI-powered research analyzer.
-- Explored research text extraction, summarization, keyword identification, and methodology analysis.
+**Planned experience**
+- **XP & Levels:** Earn experience points for completing habits and watch your level grow.
+- **Streak Tracking:** See consecutive days of consistency build over time.
+- **Daily Rewards:** Earn coins by completing all your habits for the day.
+- **Reward Shop:** Redeem coins for perks such as XP boosts, streak shields and new themes.
+- **Mini-Games:** Add variety and fun to the daily routine.
+- **Progress Calendar:** See your journey and how far you've come.
+- **Habit Consistency:** Make daily actions feel like meaningful progress toward long-term goals.
 
-## 05 — GITHUB ACTIVITY
+**The core idea:** People are more likely to keep going when they can see themselves improving. 365Rise aims to turn small daily actions into visible progress—not just for a week, but across an entire year.
 
-<div align="center">
+**Project focus:** Gamification · Habit Tracking · User Engagement · Progress Visualization
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&hide_border=true&bg_color=080D16&title_color=F59E0B&icon_color=D6D3D1&text_color=E5E7EB" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&hide_border=true&bg_color=080D16&title_color=F59E0B&text_color=E5E7EB&langs_count=6" alt="Top languages"/>
+*Concept and feature vision; implementation details and technology stack can be updated as development progresses.*
 
-<br/><br/>
+---
 
-<img width="85%" src="https://streak-stats.demolab.com?user=naveen-77-dev&hide_border=true&background=080D16&ring=F59E0B&fire=FBBF24&currStreakLabel=F59E0B&sideLabels=D6D3D1&dates=9CA3AF" alt="Contribution streak"/>
+### ◈ 03 — SwiftVisa
+**AI Visa Eligibility Screening Agent**
 
-</div>
+An AI-assisted application concept designed to help users assess visa eligibility through an interactive workflow and relevant information retrieval.
 
-## 06 — CONTRIBUTION MATRIX
+**Key capabilities**
+- Interactive visa eligibility screening.
+- Retrieval-assisted responses using a vector index.
+- LLM-powered guidance through a Streamlit interface.
 
-<div align="center">
+**Technologies:** Python · Streamlit · FAISS · Groq API · Llama 3.1
 
-<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake.svg" width="100%" alt="Amber and silver contribution snake"/>
+---
 
-</div>
+### ◈ 04 — AI-Powered Drug Similarity Predictor
+**Molecular Similarity Analysis**
 
-## 07 — CERTIFICATIONS
+A Python-based project exploring chemical similarity between drug molecules using molecular representations and similarity scoring.
 
-- Salesforce Developer — Agentblazer Champion Program
+**Key capabilities**
+- Accept molecular SMILES strings or chemical formulas, depending on supported input.
+- Generate molecular fingerprints with RDKit.
+- Compare molecular structures using Tanimoto similarity.
+- Explore KNN-based prediction and similarity visualization.
+
+**Technologies:** Python · RDKit · KNN · Matplotlib · Plotly
+
+*Similarity scores are computational comparisons, not medical advice or proof that drugs are interchangeable.*
+
+---
+
+### ◈ 05 — OS Algorithm Animator
+**CPU Scheduling, Disk Scheduling & Page Replacement**
+
+A web application that visualizes core operating-system algorithms through interactive animations, helping students understand how different algorithms process tasks and manage resources.
+
+**Key capabilities**
+- CPU scheduling: FCFS, SJF, Round Robin and Priority Scheduling.
+- Disk scheduling: SSTF, SCAN, LOOK and C-SCAN.
+- Page replacement: FIFO and LRU.
+- Web interface with Flask backend and MySQL integration.
+- AI chatbot integration explored as part of the project.
+
+**Technologies:** HTML · CSS · JavaScript · Python · Flask · MySQL
+
+---
+
+## `04 / EXPERIENCE`
+
+### Salesforce Developer — Agentblazer Champion Program
+**May 2025 – July 2025**
+
+- Developed Salesforce platform skills and explored developer-focused workflows.
+- Practiced applying platform concepts through guided learning and practical activities.
+
+### Infosys Springboard Virtual Internship 6.0
+**February 2026 – April 2026**
+
+- Worked on **PaperIQ**, an AI-powered research insight analyzer.
+- Explored document processing and AI-assisted research workflows.
+
+---
+
+## `05 / CERTIFICATIONS`
+
 - Machine Learning with ChatGPT — Coursera
-- Google Data Analytics: Foundations
+- Google Data Analytics Foundations — Coursera
 - Problem Solving Using Python — CodeTantra
 - Responsive Web Design — freeCodeCamp
 - Cambridge English Empower C1 — MRCET
-- Learn C and Learn Java — CodeChef
+- Learn Java — CodeChef
+- Learn C — CodeChef
 
-## 08 — OPEN CHANNEL
+---
+
+## `06 / GITHUB STATISTICS`
 
 <div align="center">
 
-**Building something meaningful starts with a good conversation.**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naveen-77-dev&show_icons=true&hide_border=true&bg_color=080D16&title_color=F59E0B&icon_color=D6D3D1&text_color=E5E7EB&ring_color=F59E0B" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-77-dev&layout=compact&hide_border=true&bg_color=080D16&title_color=F59E0B&text_color=E5E7EB" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=naveen-77-dev&hide_border=true&background=080D16&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=D6D3D1&currStreakNum=F3F4F6&sideNums=F3F4F6&dates=9CA3AF" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## `07 / CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/naveen-77-dev/naveen-77-dev/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+---
+
+## `08 / LET'S CONNECT`
+
+<div align="center">
+
+I'm always interested in learning, collaborating and building useful technology.
 
 <a href="https://www.linkedin.com/in/naveen-mangali-a14684295/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-78350F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=080D16" alt="LinkedIn" />
 </a>
-<a href="https://github.com/naveen-77-dev">
-<img src="https://img.shields.io/badge/FOLLOW_MY_WORK-1F2937?style=for-the-badge&logo=github&logoColor=FBBF24" alt="GitHub"/>
+<a href="mailto:mangalinaveen25102004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D6D3D1?style=for-the-badge&logo=gmail&logoColor=080D16" alt="Email" />
+</a>
+<a href="https://paperiq77.streamlit.app/">
+  <img src="https://img.shields.io/badge/PaperIQ-Try_the_App-F3F4F6?style=for-the-badge&logo=streamlit&logoColor=080D16" alt="PaperIQ live application" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:78350F,100:080D16&height=130&section=footer" width="100%" alt="Obsidian footer"/>
+**BUILD WITH PURPOSE. LEARN WITHOUT LIMITS. RISE EVERY DAY.**
 
-<sub>DESIGNED WITH PURPOSE · BUILT THROUGH EXPERIMENTATION · ALWAYS EVOLVING</sub>
+<sub>Designed in OBSIDIAN // ENGINEER · Silver × Amber</sub>
 
 </div>
+```
